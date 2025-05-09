@@ -166,14 +166,8 @@ gsap.from("#info2", {
     scrollTrigger: ("#info2")
 
 })
-gsap.from("#info3", {
-        x: -100,
 
-        rotate: 8,
-        duration: 1.3,
-        scrollTrigger: ("#info3")
-
-    })
+    
     // form
 gsap.from("#forma", {
         x: 200,
